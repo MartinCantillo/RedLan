@@ -1,0 +1,13 @@
+Taller # 2
+Programación 2
+
+Diseñe implemente un programa que permita simular una LAN (red de área local) con sus diferentes topologías: bus, estrella, hub y anillo. 
+Deben tener atributos en común como soporte de transmisión, control de acceso, estándares, velocidad de transmisión, etc. 
+La red consta de nodos que pueden ser dispositivos, computadores, estaciones de trabajo, fax, etc. Una de las principales tareas es soportar la comunicación de datos entre nodos, se debe simular la actividad de los nodos y las siguientes funciones (métodos). 
+Enumerar y listar todos los nodos. 
+Agregar un nodo a la red.
+Eliminar un nodo de la red 
+Configurar la red proporcionándole cualquier tipología. 
+Asignar el tamaño del paquete en byte, para enviar un mensaje de un nodo a otro. 
+Enviar un paquete de un nodo a otro.
+Difundir un paquete de un nodo a todos los nodos de la red. Implemente todos los componentes de GUI necesarios para el funcionamiento del programa, es necesario tener panel de pestaña para organizar la información.
